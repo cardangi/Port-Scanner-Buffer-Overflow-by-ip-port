@@ -1,5 +1,6 @@
 # Port-Scanner-Buffer-Overflow-by-ip-port
 I'm still working in it.
+> I need some help in this project, if you know Python 3 and buffer overflows / bytes, help me please with pull requests or issues. Thx
 ## Actually working options:
 [✓] TCP Scan
 
